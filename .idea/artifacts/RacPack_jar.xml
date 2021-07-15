@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RacPack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RacPack_jar</output-path>
+    <root id="archive" name="RacPack.jar">
+      <element id="module-output" name="RacPack" />
+    </root>
+  </artifact>
+</component>

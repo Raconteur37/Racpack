@@ -1,0 +1,24 @@
+name: RacPack
+version: 1.0.0
+author: Raconteur
+description: Raconteur's Custom Plugin
+api-version: 1.17
+main: rac.Main
+commands:
+  witherbow:
+  vampirebow:
+  debuffbow:
+  explosivebow:
+  basicmobdropbeacon:
+  advancedmobdropbeacon:
+  healingstaff:
+  bleedingsword:
+  witherset:
+  debuffset:
+  vampireset:
+  summonersword:
+  summonerset:
+  summonerstaff:
+  iceset:
+  icesword:
+  icewisps:
